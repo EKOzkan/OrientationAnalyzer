@@ -23,7 +23,7 @@ With this script, you can perform orientation analysis without the need for exte
    - `hashtags.csv`: Contains the list of hashtags, their types, and weights.
    - `tweets.txt`: Contains the tweets to be analyzed.
 
-3. Update the `hashtags.csv` file with the desired hashtags, types (type_1, type_2), and weights. The weights are optional and default to 1 if not provided.
+3. Update the `hashtags.csv` file with the desired hashtags, types (type_1, type_2 etc.), and weights.
 
 4. Run the script using the command: `python hashtag_sentiment_analysis.py`.
 
