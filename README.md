@@ -1,6 +1,7 @@
-# Hashtag Based Orientation Analysis
+# Hashtag Based Orientation Analysis 🔍
 
 This Python script performs sentiment analysis on tweets containing specific hashtags and calculates sentiment-based points according to predefined weights. The results are printed to the console and saved in a CSV file.
+<br/>
 
 ## Project Goals
 
